@@ -1,0 +1,6 @@
+project:
+  name: colorama
+  description: Simple cross-platform colored terminal text in Python
+  maintainers:
+    - github: Cefiyana1
+  quorum: 1
